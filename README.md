@@ -15,4 +15,4 @@ På GitHub deler jeg prosjekter jeg jobber med både i studiet og på egen hånd
 ---
 
 Ta gjerne kontakt dersom du ønsker å samarbeide eller diskutere prosjekter.  
-Takk for besøket!
+Takk for besøket! 🚀
