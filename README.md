@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hei, og velkommen 👋
 
-<!--
-**xamseslb/xamseslb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg heter **Xamse**, og jeg er student på **2. år i Anvendt Datateknologi**.  
+Jeg har en interesse for webutvikling, brukervennlig design og det å utvikle løsninger som er både funksjonelle og estetiske.  
+På GitHub deler jeg prosjekter jeg jobber med både i studiet og på egen hånd, for å utforske nye teknologier og bygge erfaring.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub-statistikk
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xamseslb&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark)
+
+---
+
+Ta gjerne kontakt dersom du ønsker å samarbeide eller diskutere prosjekter.  
+Takk for besøket!
