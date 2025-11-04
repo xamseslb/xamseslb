@@ -8,12 +8,11 @@ På GitHub deler jeg prosjekter jeg jobber med både i studiet og på egen hånd
 
 ### 📈 GitHub-statistikk
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xamseslb&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xamseslb&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark&langs_count=8)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark)
 
 ---
 
 Ta gjerne kontakt dersom du ønsker å samarbeide eller diskutere prosjekter.  
-Takk for besøket! 
+Takk for besøket!
