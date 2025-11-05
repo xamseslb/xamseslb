@@ -1,9 +1,8 @@
-<!-- Profile Header -->
-<h1 align="center">Hei, og velkommen!</h1>
+<h1 align="center">Hei, og velkommen</h1>
 
 <p align="center">
   Jeg heter <b>Xamse</b>, og jeg studerer <b>Anvendt Datateknologi (2. år)</b> ved OsloMet.<br>
-  Jeg jobber med webutvikling, systemutvikling og brukervennlig design.
+  Jeg liker webutvikling, design, systemutvikling og å bygge brukervennlige løsninger.
 </p>
 
 ---
@@ -17,29 +16,21 @@
 
 ---
 
-### Snake – Contribution graph
-
-<p align="center">
-  <img src="https://github.com/xamseslb/xamseslb/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ### Om meg
 
-- Student, 2. år – Anvendt Datateknologi @ OsloMet  
-- Studentassistent (HTML, CSS & Tech & Society)  
-- Jobber deltid hos SAS Ground Handling, Gardermoen  
-- Lærer og utforsker nye teknologier kontinuerlig  
-- Aktiv i fotball og styrketrening 3–4 ganger i uken  
+- 2. års student – Anvendt Datateknologi @ OsloMet  
+- Studentassistent (HTML, CSS & Teknologi og samfunn)  
+- Jobber deltid hos SAS Ground Handling @ Gardermoen  
+- Liker å lære nye teknologier og konsepter  
+- Trener 3–4 ganger i uka & spiller fotball på fritiden  
 
 ---
 
-### Kontakt
+### Kontakt meg
 
 <p align="center">
   <a href="mailto:xamseslb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Epost-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/xamse-sulub-ba9167310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -54,4 +45,4 @@
 
 ---
 
-<p align="center">Takk for besøket! Bare å ta kontakt om du vil samarbeide, kode, eller skape noe nytt.</p>
+<p align="center">Takk for besøket — bare å ta kontakt om du vil lage noe kult.</p>
