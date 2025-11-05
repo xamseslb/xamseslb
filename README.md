@@ -11,6 +11,7 @@ På GitHub deler jeg prosjekter jeg jobber med både i studiet og på egen hånd
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark)
 
+
 ---
 
 Ta gjerne kontakt dersom du ønsker å samarbeide eller diskutere prosjekter.  
