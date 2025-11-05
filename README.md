@@ -12,7 +12,7 @@ Jeg har interesse for **webutvikling**, **systemutvikling**, og det å bygge lø
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=tokyonight" height="160" />
 </p>
 
----
+----
 
 ### Om meg
 
