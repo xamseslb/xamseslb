@@ -5,7 +5,6 @@ Jeg har en interesse for webutvikling, brukervennlig design og det å utvikle l�
 På GitHub deler jeg prosjekter jeg jobber med både i studiet og på egen hånd, for å utforske nye teknologier og bygge erfaring.
 
 ---
-
 ### 📈 GitHub-statistikk
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xamseslb&show_icons=true&theme=dark)
