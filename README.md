@@ -8,9 +8,10 @@ På GitHub deler jeg prosjekter jeg jobber med både i studiet og på egen hånd
 
 ### 📈 GitHub-statistikk
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xamseslb&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xamseslb&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark)
+
 
 
 ---
