@@ -16,7 +16,7 @@ Jeg har interesse for **webutvikling**, **systemutvikling**, og det å bygge lø
 
 ### Om meg
 
-- 2. års student – Anvendt Datateknologi @ OsloMet  
+- 2 års student – Anvendt Datateknologi @ OsloMet  
 - Studentassistent (HTML, CSS & Teknologi og samfunn)  
 - Jobber deltid hos SAS Ground Handling @ Gardermoen  
 - Liker å lære nye teknologier og konsepter  
