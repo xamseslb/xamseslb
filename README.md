@@ -8,16 +8,17 @@ Jeg har interesse for **webutvikling**, **systemutvikling**, og å bygge løsnin
 ## 📊 GitHub-statistikk
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xamseslb&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="160"
-    alt="Top languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xamseslb&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xamseslb&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xamseslb&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xamseslb&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xamseslb&theme=tokyonight&utcOffset=1" height="180" />
 </p>
 
 ---
@@ -25,7 +26,7 @@ Jeg har interesse for **webutvikling**, **systemutvikling**, og å bygge løsnin
 ## 👨‍💻 Om meg
 - 🎓 2. års student – **Anvendt Datateknologi @ OsloMet**
 - 👨‍🏫 Studentassistent (HTML, CSS & Teknologi og samfunn)
-- ✈️ Deltidsjobb hos **SAS Ground Handling @ Gardermoen**
+- ✈️ Jobber deltid hos **SAS Ground Handling @ Gardermoen**
 - 📚 Liker å lære nye teknologier og konsepter
 - ⚽ Trener 3–4 ganger i uka og spiller fotball på fritiden
 
