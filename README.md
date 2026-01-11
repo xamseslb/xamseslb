@@ -8,17 +8,17 @@ Jeg har interesse for **webutvikling**, **systemutvikling**, og å bygge løsnin
 ## 📊 GitHub-statistikk
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xamseslb&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xamselb&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xamseslb&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xamseslb&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xamselb&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xamselb&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xamseslb&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xamseslb&theme=tokyonight&utcOffset=1" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xamselb&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xamselb&theme=tokyonight&utcOffset=1" height="180" />
 </p>
 
 ---
