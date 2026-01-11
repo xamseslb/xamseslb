@@ -35,12 +35,12 @@ Min kompetanse spenner fra **fullstack-webutvikling** til **systemarkitektur** o
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xamseslb&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=xamseslb&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ Jeg følger disse prinsippene i alle prosjekter:
   <a href="https://www.linkedin.com/in/xamse-sulub-ba9167310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/xamseslb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="tel:+4794093804">
