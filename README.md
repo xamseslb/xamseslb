@@ -1,7 +1,8 @@
 # 👋 Hei, velkommen til min GitHub-profil
 
 Jeg er **Xamse**, en dedikert andreårsstudent i **Anvendt Datateknologi** ved **OsloMet**.  
-Jeg fokuserer på å utvikle veldesignede, skalerbare løsninger med brukeropplevelse og effektivitet i fokus.
+Jeg fokuserer på å utvikle veldesignede, skalerbare løsninger med brukeropplevelse og effektivitet i fokus.  
+Min kompetanse spenner fra **fullstack-webutvikling** til **systemarkitektur** og **databasedesign**.
 
 ---
 
@@ -28,13 +29,86 @@ Jeg fokuserer på å utvikle veldesignede, skalerbare løsninger med brukeropple
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xamselb&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamselb&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xamseslb&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamseslb&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xamselb&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=xamseslb&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
+## 💼 Hovedprosjekter
+
+### **ImpulseFX – Institutional Trading Platform**
+*Profesjonell handelsplattform fokusert på gull (XAUUSD)*
+
+**Beskrivelse**  
+ImpulseFX er bygget rundt institusjonell markedsstruktur, fler-tidsrammeanalyse og streng risikostyring.  
+Plattformen er designet for skalerbarhet, lav latens og høy dataintegritet.
+
+**Nøkkelfunksjoner**
+- Realtids handelssignaler
+- Event-drevet arkitektur
+- AI-assistert markedsobservasjon
+- Abonnementsbasert tilgang og sikker autentisering
+
+**Teknologier**  
+`TypeScript` `React` `Node.js` `PostgreSQL` `Docker` `WebSocket`
+
+---
+
+### **Afnan Bakes – Bestillingsplattform**
+*Nettbasert løsning for lokale bakevarer*
+
+**Beskrivelse**  
+Fullstack-applikasjon for bestilling og administrasjon av hjemmelagde bakevarer.
+
+**Nøkkelfunksjoner**
+- Produktkatalog og bestillingsflyt
+- Brukerautentisering
+- Admin-panel for ordre
+- Mobilvennlig design
+
+**Teknologier**  
+`Java` `Spring Boot` `JavaScript` `HTML/CSS` `Supabase` `REST API`
+
+---
+
+## 📈 Prosjektkomparasjon
+
+| Aspekt | ImpulseFX | Afnan Bakes |
+|------|-----------|------------|
+| Domene | FinTech | E-handel |
+| Arkitektur | Event-drevet | Monolittisk |
+| Data | Realtid | Transaksjonell |
+| Sikkerhet | API-nøkler, kryptering | Brukerautentisering |
+| Skalerbarhet | Høy | Moderat |
+
+---
+
+## 🎓 Profesjonell Bakgrunn
+
+### Utdanning
+- **OsloMet – Storbyuniversitetet**  
+  Bachelor i Anvendt Datateknologi (2023–2026)
+
+### Erfaring
+- **Studentassistent – OsloMet**  
+  HTML, CSS og Teknologi og samfunn
+- **IT-drift / Support – SAS Ground Handling**  
+  Systemovervåking og teknisk support
+
+---
+
+## 🎯 Utviklingsfilosofi
+
+- Brukervennlighet
+- Robusthet
+- Vedlikeholdbarhet
+- Skalerbarhet
+- Transparens
 
 ---
 
@@ -48,3 +122,7 @@ Jeg fokuserer på å utvikle veldesignede, skalerbare løsninger med brukeropple
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+> *Koden vi skriver i dag er fundamentet for løsningene i morgen.*
