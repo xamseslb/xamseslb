@@ -1,55 +1,144 @@
-# Hei, og velkommen 👋
+# 👋 Hei, velkommen til min GitHub-profil
 
-Jeg heter **Xamse**, og jeg studerer **Anvendt Datateknologi (2. år)** ved **OsloMet**.  
-Jeg har interesse for **webutvikling**, **systemutvikling**, og å bygge løsninger som er både funksjonelle og brukervennlige.
-
----
-
-## 📊 GitHub-statistikk
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xamselb&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xamselb&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xamselb&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xamselb&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xamselb&theme=tokyonight&utcOffset=1" height="180" />
-</p>
+Jeg er **Xamse**, en dedikert andreårsstudent i **Anvendt Datateknologi** ved **OsloMet**.  
+Jeg fokuserer på å utvikle veldesignede, skalerbare løsninger med brukeropplevelse og effektivitet i fokus.  
+Min kompetanse spenner fra **fullstack-webutvikling** til **systemarkitektur** og **databasedesign**.
 
 ---
 
-## 👨‍💻 Om meg
-- 🎓 2. års student – **Anvendt Datateknologi @ OsloMet**
-- 👨‍🏫 Studentassistent (HTML, CSS & Teknologi og samfunn)
-- ✈️ Jobber deltid hos **SAS Ground Handling @ Gardermoen**
-- 📚 Liker å lære nye teknologier og konsepter
-- ⚽ Trener 3–4 ganger i uka og spiller fotball på fritiden
+## 🚀 Teknologier & Verktøy
+
+### 💻 **Utvikling**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+
+### 🗄️ **Database & Infrastruktur**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+### 🎨 **Frontend & Design**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
-## 📫 Kontakt
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xamselb&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamselb&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xamselb&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💼 Hovedprosjekter
+
+### **ImpulseFX – Institutional Trading Platform**  
+*En profesjonell, risikostyrt handelsplattform fokusert på gull (XAUUSD)*
+
+**📋 Beskrivelse**  
+ImpulseFX er en profesjonell handelsplattform bygget på en regelbasert strategi med institusjonell arkitektur. Systemet kombinerer fler-tidsramme markedsstruktur, verdiområder og streng risikostyring for å generere høykvalitative handelssignaler.
+
+**✨ Nøkkelfunksjoner**
+- Realtids frontend med live signallevering
+- AI-assistent som observerer markedskontekst og globale nyheter
+- Skalerbar arkitektur fra enkeltbrukere til profesjonelle tradere
+- Sikker påloggingssystem med abonnementsbasert tilgang
+
+**🛠️ Teknologier**  
+`TypeScript` `React` `Node.js` `PostgreSQL` `Docker` `WebSocket`
+
+---
+
+### **Afnan Bakes – Bestillingsplattform for Hjemmelagde Bakevarer**  
+*Nettbasert bestillingsplattform for lokale bakevarer*
+
+**📋 Beskrivelse**  
+Afnan Bakes er en fullstack-applikasjon som tilbyr en enkel og effektiv måte for kunder å bestille ferske, hjemmelagde bakevarer lokalt.
+
+**✨ Nøkkelfunksjoner**
+- Brukervennlig bestillingsflyt med produktkatalog
+- Sikker brukerautentisering og profilhåndtering
+- Administrasjonspanel for ordrehåndtering
+- Responsivt design for alle enheter
+
+**🛠️ Teknologier**  
+`Java` `Spring Boot` `JavaScript` `HTML/CSS` `Supabase` `REST API`
+
+---
+
+## 📈 Prosjektkomparasjon
+
+| **Aspekt** | **ImpulseFX** | **Afnan Bakes** |
+|------------|---------------|-----------------|
+| **Domene** | Finansiell teknologi | E-handel & logistikk |
+| **Arkitektur** | Event-drevet, mikro-tjenester | Monolittisk med klart skilte lag |
+| **Databehandling** | Realtids markedsdata | Transaksjonell ordrehåndtering |
+| **Sikkerhet** | Kryptert kommunikasjon, API-nøkler | Brukerautentisering, dataskjerming |
+| **Skalerbarhet** | Høy ytelse, lav latens | Vertikal skalering for brukervekst |
+
+---
+
+## 🎓 Profesjonell Bakgrunn
+
+### **Utdanning**
+- **🎓 OsloMet – Storbyuniversitetet**  
+  *Bachelor i Anvendt Datateknologi* (2023–2026)  
+  Fag: Algoritmer og datastrukturer, Databasehåndtering, Systemutvikling, Brukersentrert design
+
+### **Erfaring**
+- **👨‍🏫 Studentassistent – OsloMet**  
+  Veiledning av førstårsstudenter i HTML, CSS og grunnleggende webutvikling  
+  Undervisningsstøtte i kurset "Teknologi og samfunn"
+
+- **✈️ IT-drift og Support – SAS Ground Handling, Gardermoen**  
+  Teknisk support, systemovervåking og feilsøking  
+  Deltidsstilling i kombinasjon med studier
+
+---
+
+## 🎯 Utviklingsfilosofi
+
+Jeg følger disse prinsippene i alle prosjekter:
+- **Brukervennlighet** – Intuitive grensesnitt for både tekniske og ikke-tekniske brukere  
+- **Robusthet** – Feiltolerant og stabil under varierende belastning  
+- **Vedlikeholdbarhet** – Velstrukturert kodebase med dokumentasjon  
+- **Skalerbarhet** – Arkitektur som vokser med brukerbehovene  
+- **Transparens** – Klare systemer uten "black box"-logikk
+
+---
+
+## 📞 Kontakt
 
 <p align="center">
   <a href="mailto:xamseslb@gmail.com">
-    <img src="https://img.shields.io/badge/Epost-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E‑post-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/xamse-sulub-ba9167310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/iamsulub10/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="tel:+4794093804">
-    <img src="https://img.shields.io/badge/Telefon-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white" />
+  <a href="https://github.com/xamselb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ **Takk for besøket!**  
-Ta gjerne kontakt dersom du ønsker å samarbeide eller diskutere prosjekter.
+> "Koden vi skriver i dag, er fundamentet for løsningene i morgen."  
+> 
+> *— Interessert i samarbeid eller diskusjon om teknologiløsninger?  
+> Ta gjerne kontakt for en uforpliktende prat.*
